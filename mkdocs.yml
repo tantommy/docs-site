@@ -52,7 +52,7 @@ nav:
     - Binance Smart Chain Explorers:
       - Mainnet Explorers: smart-chain/developer/BSC-mainnet-explorers.md
       - Testnet Explorers: smart-chain/developer/BSC-testnet-explorers.md
-    - Cross-Chain Suport: smart-chain/guides/cross-chain.md
+    - Cross-Chain Support: smart-chain/guides/cross-chain.md
     - Wallet: smart-chain/wallet.md
   - Binance Chain:
     - Introduction: guides/intro.md
